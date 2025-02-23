@@ -164,3 +164,9 @@ header {
 .con-button:hover {
     background-color: #1C4FB0;
 }
+
+/* masonry(3つめ) */
+
+#masonry {
+    max-width: 1920px;
+}
